@@ -11,7 +11,7 @@
     var r = 0.7885;
 
 function setup() {
-  createCanvas(600 , 600);
+  createCanvas(500 , 500);
   pixelDensity(1);
   colorMode(HSB);
 }
